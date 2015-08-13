@@ -1,5 +1,4 @@
 
-__author__ = 'wesc+api@google.com (Wesley Chun)'
 
 import webapp2
 import logging
